@@ -13,28 +13,24 @@
     * **[Atividade](https://drive.google.com/drive/folders/1NlJElYljriUv4cZ85-M4Ey9obWsf6LEM?usp=drive_link)**
 - Técnicas ágeis
   * Aplicação de testes orientado a comportamento
-    * Projeto
-    * Ferramenta Cucumber
+    * **[Atividade](https://github.com/eduardotrandafilov/cucumber)** 
 - Técnicas de teste UI para web(manual)
   * Testes de acessibilidade
-    * Projeto
+    * **[Atividade](https://docs.google.com/document/d/1j8UcsgfjJkt61I1ws3sUGsNilItdllQz/edit?usp=drive_link&ouid=113410598717466722374&rtpof=true&sd=true)** 
 - Automações de UI 
-  * Projeto
-    * Ferramenta cypress
+  * **[Projeto teste funcional](https://github.com/eduardotrandafilov/teste-ebac-ui)**
+  * **[Projeto fluxo compra](https://github.com/eduardotrandafilov/teste-e2e-ebac)**
 - Testes de API Rest(manual)
-  * Projeto
-    * Ferramenta postman
+  * **[Atividade](https://github.com/eduardotrandafilov/teste-api-serverest)**
 - Testes de API Rest(automatizado)
-  * Projeto
-    * Ferramenta cypress
+  * [Projeto](https://github.com/eduardotrandafilov/teste-api-ebac)
 - Testes mobile (manual)
   * **[Projeto](https://github.com/eduardotrandafilov/testes-mobile)**
-    * Appium inspector
 - Práticas devops
   * Implementação de Integração Contínua
-    * Projeto
-      * Ferramenta Docker e Jenkins    
-- Práticas ágeis
+    * [Conhecimentos adquiridos](https://drive.google.com/file/d/17MLONyhLshgNsij8U585m9umUaFqfyD3/view?usp=sharing)   
+- Práticas ágeis 
   * Metodologia Scrum e kanban
-    * Projeto
+    * [Conhecimentos adquiridos](https://drive.google.com/file/d/1-uGgb4F6tSBOxVotmyWy4pwvajmAOQ56/view?usp=sharing)
+    * [Atividade realizada](https://drive.google.com/drive/folders/1v4BoKk7fZnxRFqx13gSI_kzF-01EmvWS?usp=sharing)
 
