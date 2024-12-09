@@ -26,6 +26,8 @@
   * [Projeto](https://github.com/eduardotrandafilov/teste-api-ebac)
 - Testes mobile (manual)
   * **[Projeto](https://github.com/eduardotrandafilov/testes-mobile)**
+- Banco de dados SQL e NoSQL
+  * **[Atividade](https://github.com/eduardotrandafilov/mod19-ebac-sql-nosql)** 
 - Práticas devops
   * Implementação de Integração Contínua
     * [Conhecimentos adquiridos](https://drive.google.com/file/d/17MLONyhLshgNsij8U585m9umUaFqfyD3/view?usp=sharing)   
